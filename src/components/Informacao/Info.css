@@ -1,0 +1,13 @@
+a.btn {
+    background-color: var(--dark-shadow);
+    box-shadow: 
+            2px 0 10px 0 rgba(0, 0, 0, 0.12),
+            2px 0 10px 0 rgba(0, 0, 0, 0.09);
+
+
+}
+
+.card a.btn:hover{
+    background: linear-gradient(135deg, #7f9bbe 0%, #3a4c80 100%) ;
+      /*linear-gradient(135deg, #d6dde1 0%, #7a7c80 100%) ;}*/
+}

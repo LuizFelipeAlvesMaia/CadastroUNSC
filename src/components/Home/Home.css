@@ -1,0 +1,17 @@
+div.intro{
+    display: inline-block;
+}
+a.flag img {
+   width: 260px;
+   height: 350px;
+   float: right;
+
+}
+
+
+@media(max-width: 576px){
+    a.flag img{
+        width: 350px;
+        height: auto
+    }
+}
